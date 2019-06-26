@@ -4,6 +4,10 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
+#backBtn {
+  color: whitesmoke;
+  font-size: 30px;
+}
 
 #zoom {
   margin: 0 auto;
