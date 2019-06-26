@@ -6,7 +6,10 @@ body {
 
 #backBtn {
   color: whitesmoke;
-  font-size: 30px;
+  font-size: 8px;
+  float: left;
+  position: fixed;
+  left: 5px;
 }
 
 #zoom {
